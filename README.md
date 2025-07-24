@@ -1,4 +1,4 @@
-<p align="center">
+https://www.threads.net/@jaysonscottheise?invite=0 <p align="center">
   <img height="100" width="100" alt="LlamaIndex logo" src="https://ts.llamaindex.ai/square.svg" />
 </p>
 <h1 align="center">LlamaIndex.TS</h1>
