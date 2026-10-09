@@ -95,3 +95,4 @@ You are highly encouraged to contribute to LlamaIndex.TS!
 
 Please join our Discord! https://discord.com/invite/eN6D2HQ4aX
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
